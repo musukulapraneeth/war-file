@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Alright bro i am fine!</h2>
+<h2>Alright !</h2>
 </body>
 </html>
